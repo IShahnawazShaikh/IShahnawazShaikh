@@ -30,4 +30,4 @@
 </p>
 </p>
 ### About Me 
-#### Passionate Coder | Competitive Programmer | Android Developer
+ Passionate Coder | Competitive Programmer | Android Developer
