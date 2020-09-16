@@ -29,5 +29,5 @@
  
 </p>
 </p>
-### About Me 
+### About Me <br>
  Passionate Coder | Competitive Programmer | Android Developer
