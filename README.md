@@ -5,8 +5,6 @@
 
 [![Instagram Badge](https://img.shields.io/badge/__imshahnawazshaikh__-%23E0487F.svg?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/__imshahnawazshaikh__//)](https://www.instagram.com/__imshahnawazshaikh__/) 
 
-[![GeeksforGeeks Badge](https://img.shields.io/badge/__imshahnawazshaikh__-%23E0487F.svg?style=flat-square&logo=GeeksforGeeks&logoColor=white&link=https://www.instagram.com/__imshahnawazshaikh__//)](https://www.instagram.com/__imshahnawazshaikh__/) 
-
 ### My Technical Skills are
 <p align='center'>Web Development</p>
 <p align='center'>
