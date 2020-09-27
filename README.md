@@ -44,8 +44,7 @@
 <p align='center'>
   <p align='center'>
   <img src="https://img.shields.io/badge/firebase%20-%23339933.svg?&style=for-the-badge&logo=springboot&logoColor=white" />&nbsp;&nbsp;
-    
-  <img src="https://img.shields.io/badge/mysql%20-%23339933.svg?&style=for-the-badge&logo=springboot&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/mysql%20-%23339933.svg?&style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;&nbsp;
 
   </p>
 </p>
