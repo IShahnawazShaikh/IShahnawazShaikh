@@ -33,8 +33,8 @@
 <p align='center'>Other Skills: </p>
 <p align='center'>
   <p align='center'>
-  <img src="https://img.shields.io/badge/ajax%20-%23339933.svg?&style=for-the-badge&logo=springboot&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/jquery%20-%23A8B9CC.svg?&style=for-the-badge&logo=springboot&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/ajax%20-%23339933.svg?&style=for-the-badge&logo=ajax&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/jquery%20-%23A8B9CC.svg?&style=for-the-badge&logo=jQuery&logoColor=white" />&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/node%20-%231572B6.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/json%20-%23A8B9CC.svg?&style=for-the-badge&logo=springboot&logoColor=white" />&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/xml%20-%23e34f26.svg?&style=for-the-badge&logo=springboot&logoColor=white" />&nbsp;&nbsp;
