@@ -4,6 +4,8 @@
 [![Gmail Badge](https://img.shields.io/badge/GMAIL-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shahnawazexplore@gmail.com)](mailto:shahnawazexplore@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/__imshahnawazshaikh__-%23E0487F.svg?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/__imshahnawazshaikh__//)](https://www.instagram.com/__imshahnawazshaikh__/) 
 
+<img align="right" src="https://komarev.com/ghpvc/?username=imshahnawazdevil&label=Profile Views&color=blue&style=plastic" alt="imshahnawazdevil" />
+
 ### My Technical Skills are
 <p align='center'>Web Development</p>
 <p align='center'>
