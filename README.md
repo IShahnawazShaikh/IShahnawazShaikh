@@ -5,52 +5,6 @@
 [![Instagram Badge](https://img.shields.io/badge/__imshahnawazshaikh__-%23E0487F.svg?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/__imshahnawazshaikh__//)](https://www.instagram.com/__imshahnawazshaikh__/) 
 
 <img align="right" src="https://komarev.com/ghpvc/?username=imshahnawazdevil&label=Profile Views&color=blue&style=plastic" alt="imshahnawazdevil" />
-
-### My Technical Skills are
-<p align='center'>Web Development</p>
-<p align='center'>
-  <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp; 
-  <img src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;
-  <img  src="https://img.shields.io/badge/node.js%20-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;
-</p>
-
-<p align='center'>Programming Language</p>
-<p align='center'>
-  <p align='center'>
-  <img src="https://img.shields.io/badge/java%20-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/C%20-%23A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=white" />&nbsp;&nbsp; 
-  <img src="https://img.shields.io/badge/C++%20-%23A8B9CC.svg?&style=for-the-badge&logo=cplusplus&logoColor=white" />&nbsp;&nbsp; 
-  <img  src="https://img.shields.io/badge/php%20-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" /><br> <br>
-</p>
-
-<p align='center'>Frameworks</p>
-<p align='center'>
-  <p align='center'>
-  <img src="https://img.shields.io/badge/srpingboot%20-%23339933.svg?&style=for-the-badge&logo=springboot&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/springmvc%20-%23A8B9CC.svg?&style=for-the-badge&logo=springboot&logoColor=white" />&nbsp;&nbsp;
-  </p>
-</p>
-
-<p align='center'>Other Skills: </p>
-<p align='center'>
-  <p align='center'>
-  <img src="https://img.shields.io/badge/ajax%20-%23339933.svg?&style=for-the-badge&logo=ajax&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/jquery%20-%23A8B9CC.svg?&style=for-the-badge&logo=jQuery&logoColor=white" />&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/node%20-%231572B6.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/json%20-%23A8B9CC.svg?&style=for-the-badge&logo=springboot&logoColor=white" />&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/xml%20-%23e34f26.svg?&style=for-the-badge&logo=springboot&logoColor=white" />&nbsp;&nbsp;
-  </p>
-</p>
-<p align='center'>Database </p>
-<p align='center'>
-  <p align='center'>
-  <img src="https://img.shields.io/badge/firebase%20-%23339933.svg?&style=for-the-badge&logo=springboot&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/mysql%20-%23F7DF1E.svg?&style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;&nbsp;
-
-  </p>
-</p>
-
 **Languages and Tools:**  
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
