@@ -32,7 +32,7 @@ intelligence products and data transformation frameworks to support scalable sol
 
 #### ⚡ Frameworks & Tools  
 <p>
-  <img src="https://skillicons.dev/icons?i=spring,jpa,hibernate,react,mysql,postman,git,github,docker" />
+  <img src="https://skillicons.dev/icons?i=spring,hibernate,react,mysql,postman,git,github,docker" />
 </p>
 
 
