@@ -47,17 +47,6 @@ intelligence products and data transformation frameworks to support scalable sol
 - Data Analysis & Visualization  
 - CI/CD, Cloud Basics (AWS)  
 
----
-
-### 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ishahnawazshaikh&show_icons=true&theme=tokyonight" alt="GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishahnawazshaikh&layout=compact&theme=tokyonight" alt="Top Languages" height="165"/>
-</p>
-
----
-
 
 ### 📫 Let's Connect  
 💌 **Email:** [shahnawazexplore@gmail.com](mailto:shahnawazexplore@gmail.com)  
