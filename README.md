@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Shahnawaz Shaikh</h1>
-<h3 align="center">Software Engineer II | Data Enthusiast | Problem Solver</h3>
+<h3 align="center">Software Engineer II @Bidgely | Data Enthusiast | Problem Solver</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ishahnawazshaikh/" target="_blank">
